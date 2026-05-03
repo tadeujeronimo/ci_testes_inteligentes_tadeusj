@@ -1,0 +1,17 @@
+{
+  "name": "ci_testes_inteligentes_playwright",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "playwright test",
+    "test:manual": "playwright test tests/manual",
+    "test:ai": "playwright test tests/ai",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.0",
+    "@types/node": "^22.15.21",
+    "typescript": "^5.8.3"
+  }
+}
