@@ -1,8 +1,12 @@
-{
-  "name": "ci_testes_inteligentes_playwright",
-  "version": "1.0.0",
-  "private": true,
-  "type": "module",
+
+ {
+   "name": "ci_testes_inteligentes_playwright",
+   "description": "Projeto de automação de testes com duas pipelines de CI usando Playwright, GitHub Actions e a aplicação pública Automation Exercise.",
+   "version": "1.0.0",
+   "private": true,
+   "type": "module",
+  "author": "Tadeu dos Santos Jerônimo <tadeus.jeronimo@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "test": "playwright test",
     "test:manual": "playwright test tests/manual",
