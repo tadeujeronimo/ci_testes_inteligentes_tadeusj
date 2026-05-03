@@ -2,8 +2,7 @@
 
 ![CI](https://github.com/tadeujeronimo/ci_testes_inteligentes_tadeusj/actions/workflows/ci.yml/badge.svg)
 
-Projeto de automação de testes para a atividade de Engenharia de Software, usando a aplicação pública [Automation Exercise](https://automationexercise.com/).
-Projeto de automação de testes com duas pipelines CI (testes manuais + testes com IA) para a atividade de Engenharia de Software, usando a aplicação pública [Automation Exercise](https://automationexercise.com/).
+Projeto de automação de testes com duas pipelines CI (testes manuais + testes com IA) para a atividade de Engenharia de Software, usando Playwright, GitHub Actions e a aplicação pública [Automation Exercise](https://automationexercise.com/).
 
 ## Estrutura
 
